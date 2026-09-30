@@ -1,20 +1,8 @@
-.plants {
-    padding: 15px;
-    /* background-color: #31b572; */
+.plant-list {
     list-style-type: none;
+    padding: 32px;
+    gap: 45px;
     display: flex;
     flex-wrap: wrap;
-    gap: 15px;
-}
-
-.plant-item {
-    position: relative;
-    background-color: rgb(238, 245, 245);
-    padding: 65px;
-}
-
-.lmj-sale {
-    position: absolute;
-    top: 0;
-    color: green;
+    justify-content: center;
 }
